@@ -5,7 +5,7 @@ This is a cool recreation of the `d3v4eglovri8yt` CloudFront server used by GoAn
 Simply make a pull request.
 
 ## To Use the Asset Library
-In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), Set the contents of `config.json` to:
+In [Wrapper](https://github.com/Duke-is-my/verbose-octo-invention), Set the contents of `config.json` to:
 ```
 {
         "SWF_URL": "https://duke-is-my.github.io/GoAnimate-Modded-Assets/animation/414827163ad4eb60",
